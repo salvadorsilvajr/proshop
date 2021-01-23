@@ -1,0 +1,14 @@
+{
+  "name": "mern-shopping-cart",
+  "version": "1.0.0",
+  "description": "sample of how to build a mern app with a shopping cart",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server"
+  },
+  "author": "Salvador Silva",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
