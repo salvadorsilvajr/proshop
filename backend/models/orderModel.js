@@ -58,8 +58,8 @@ const orderSchema = mongoose.Schema({
       required: true,
       default: false,
    },
-   deliveeredAt: {
-   type: Date,
+   deliveredAt: {
+      type: Date,
    },
 }, {
    timestamps: true
